@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: f98b189032ea1e748a41fff92a3d3f1e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jumpatt_0
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3537
+        width: 428
+        height: 1140
+      alignment: 9
+      pivot: {x: 0.38933057, y: 0.49999914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb917aac4e14da9429ee2099a7fe46a0
+      internalID: 1278497375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_1
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 3530
+        width: 643
+        height: 1430
+      alignment: 9
+      pivot: {x: 0.3193614, y: 0.4018828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ddfc8077891dc44a959c1580ad6531
+      internalID: 1591945286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_3
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 3495
+        width: 954
+        height: 1405
+      alignment: 9
+      pivot: {x: 0.20046556, y: 0.43220502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fffacbf90849fa4eaaec31f42d25011
+      internalID: -1276414484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_6
+      rect:
+        serializedVersion: 2
+        x: 5174
+        y: 3535
+        width: 1026
+        height: 1142
+      alignment: 9
+      pivot: {x: 0.3481036, y: 0.49365234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b116264a3ff1f444bbf1d70e7ad849e
+      internalID: 771531815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_7
+      rect:
+        serializedVersion: 2
+        x: 6662
+        y: 3512
+        width: 1044
+        height: 1165
+      alignment: 9
+      pivot: {x: 0.35044703, y: 0.5089341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbd33f6f0d1cb7428e2b0a36fc537f9
+      internalID: 497503863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_8
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 4537
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0569e38e07328af4aac4f6f32e24b0dc
+      internalID: -651271904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_13
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 3955
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d47746a85cc3944fbd115c928d4764a
+      internalID: -510136722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_14
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 3964
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815e5c38cf3fccc4593f43f93717af25
+      internalID: -246055906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1861
+        width: 617
+        height: 1141
+      alignment: 9
+      pivot: {x: 0.5809893, y: 0.4912411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04049df266a613246b2e1bc70c011acd
+      internalID: -2103664200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_18
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1896
+        width: 367
+        height: 1153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7065644280c686498caabae788a71c3
+      internalID: 1455264419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_19
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1896
+        width: 625
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.34980428, y: 0.50814134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b63314e24a5b92488add30fbe243aef
+      internalID: -235322747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_20
+      rect:
+        serializedVersion: 2
+        x: 5287
+        y: 1896
+        width: 656
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.34727886, y: 0.50930977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66976f0bb541d9a4fa4030a9b4fc25e0
+      internalID: 1012818701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jumpatt_21
+      rect:
+        serializedVersion: 2
+        x: 6799
+        y: 1896
+        width: 660
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.34154534, y: 0.5076865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fa1008c7afc0548867c3404767e110
+      internalID: -1319629499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jumpatt_0: 1278497375
+      Jumpatt_1: 1591945286
+      Jumpatt_10: -1622445336
+      Jumpatt_11: 577349235
+      Jumpatt_12: -1282321452
+      Jumpatt_13: -510136722
+      Jumpatt_14: -246055906
+      Jumpatt_15: -204980083
+      Jumpatt_16: 715548083
+      Jumpatt_17: -2103664200
+      Jumpatt_18: 1455264419
+      Jumpatt_19: -235322747
+      Jumpatt_2: 809516019
+      Jumpatt_20: 1012818701
+      Jumpatt_21: -1319629499
+      Jumpatt_3: -1276414484
+      Jumpatt_4: 1693738100
+      Jumpatt_5: 405071330
+      Jumpatt_6: 771531815
+      Jumpatt_7: 497503863
+      Jumpatt_8: -651271904
+      Jumpatt_9: -1169670437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

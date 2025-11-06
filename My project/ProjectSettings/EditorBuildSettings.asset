@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntoScene.unity
+    guid: bf70f5d7a4689c142998642b0b601af6
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 39494f3622eb78b498ec07390e13f3fb
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: d49ff7c3a00dece44a0dedb3e1afb7e2
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: a98ec2f2422d7d74aac9dc5f40e666ff
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: 7ee410099005eef48b1057b9e55537c2
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: 6e489db661e6d534d870a3575b62be67
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 132f8e72b93e8f04ab0171873bd036ed
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Scene.unity
+    guid: d058467f4918e524ea8fe248b191d1b8
+  - enabled: 1
+    path: Assets/Scenes/IntoScene1.unity
+    guid: f202c818c5dd3a74aaba79b876fb855b
+  - enabled: 1
+    path: Assets/Scenes/IntoScene2.unity
+    guid: e472a6b62d1c27f4abd1654eeb6febcb
+  - enabled: 1
+    path: Assets/Scenes/IntoScene3.unity
+    guid: edf6e97975c37da458a9a5bf4222fcfa
+  - enabled: 1
+    path: Assets/Scenes/IntoScene4.unity
+    guid: 6eb9e570d5154974c889ea8693a284f1
+  - enabled: 1
+    path: Assets/Scenes/IntoScene5.unity
+    guid: 5b8180b03198b0c4684e4363a973c44b
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: bc37d5c4fe1039c45998fd836907b190
+  m_configObjects: {}

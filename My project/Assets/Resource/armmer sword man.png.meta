@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: 3676960fb727c904d84843fbde168f95
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armmer sword man_0
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3666
+        width: 593
+        height: 1164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94584fa6eb5317489a0bae4048fc401
+      internalID: 1143329103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_1
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 3658
+        width: 586
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c91a469f994d94e87a6952967bb151
+      internalID: -769192203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_2
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 3658
+        width: 592
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138cbb098ad29e4b82936c167fa7bb8
+      internalID: 1052172374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_3
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 3650
+        width: 593
+        height: 1180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7d582a1672c4f4584375d4ba777603
+      internalID: 1954793718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_4
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 3666
+        width: 586
+        height: 1164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f750b78acfc041bee18e30b7b873e
+      internalID: 1943152244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2158
+        width: 594
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c876efabc6a7da43ac5effa64605e50
+      internalID: 2137367495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_6
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2158
+        width: 586
+        height: 1172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d89ff110ca9144b9cf5d38da197b0
+      internalID: -1192722232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_7
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2418
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbbaeb723c7a1d4188cc3b040da1c63
+      internalID: 1952009106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_8
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 2158
+        width: 578
+        height: 1164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127bdda7a6bfa6d4eaed0fca68a515e9
+      internalID: 1332580151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_9
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 2143
+        width: 577
+        height: 1164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14934e5011f3d714e9e5a86040b2829e
+      internalID: -1898932722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_10
+      rect:
+        serializedVersion: 2
+        x: 4616
+        y: 2143
+        width: 585
+        height: 1164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5d75f673350d24094931d40d2816d6
+      internalID: 569860585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_19
+      rect:
+        serializedVersion: 2
+        x: 6842
+        y: 283
+        width: 1036
+        height: 1164
+      alignment: 9
+      pivot: {x: 0.46513927, y: 0.47812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39aef607e276e4409976a5022f87c2d
+      internalID: -935551652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_23
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 772
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd179776b65e42946bc7281d333cbfb1
+      internalID: -157184390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_24
+      rect:
+        serializedVersion: 2
+        x: 7475
+        y: 655
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeea0aa9ff0b1d41b06ef248ea5f4c3
+      internalID: 666459915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_15
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1136
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89a34d3fd894840911ccb5d9c4cbce
+      internalID: -1558789599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_11
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 283
+        width: 1011
+        height: 1555
+      alignment: 9
+      pivot: {x: 0.43042827, y: 0.36517456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f6372dc2db55d41918690af1ae035d
+      internalID: 989123342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 283
+        width: 989
+        height: 1179
+      alignment: 9
+      pivot: {x: 0.44460878, y: 0.4858107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e849c0bd0dfeb945841a4ab00b55a4c
+      internalID: 407138846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_16
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 283
+        width: 866
+        height: 1374
+      alignment: 9
+      pivot: {x: 0.30014467, y: 0.41806772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37cbca12dd6d6a4bbe1cafcb6c1bcfd
+      internalID: 963577196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_17
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 283
+        width: 1117
+        height: 1181
+      alignment: 9
+      pivot: {x: 0.5152285, y: 0.48514986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3fcda986f7d32439fe0e36bb887cf2
+      internalID: 1518034894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_18
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 283
+        width: 1036
+        height: 1164
+      alignment: 9
+      pivot: {x: 0.4858738, y: 0.49112236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192ad42e95a83f4f8e9ed3458e01c26
+      internalID: -460113137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armmer sword man_21
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 908
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2af70264dfd6e842a4ba07c66ac31d3
+      internalID: -2008293182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      armmer sword man_0: 1143329103
+      armmer sword man_1: -769192203
+      armmer sword man_10: 569860585
+      armmer sword man_11: 989123342
+      armmer sword man_12: -1619948036
+      armmer sword man_13: 889161652
+      armmer sword man_14: 407138846
+      armmer sword man_15: -1558789599
+      armmer sword man_16: 963577196
+      armmer sword man_17: 1518034894
+      armmer sword man_18: -460113137
+      armmer sword man_19: -935551652
+      armmer sword man_2: 1052172374
+      armmer sword man_20: -1702944019
+      armmer sword man_21: -2008293182
+      armmer sword man_22: 823699200
+      armmer sword man_23: -157184390
+      armmer sword man_24: 666459915
+      armmer sword man_3: 1954793718
+      armmer sword man_4: 1943152244
+      armmer sword man_5: 2137367495
+      armmer sword man_6: -1192722232
+      armmer sword man_7: 1952009106
+      armmer sword man_8: 1332580151
+      armmer sword man_9: -1898932722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

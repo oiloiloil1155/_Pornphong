@@ -1,0 +1,1698 @@
+fileFormatVersion: 2
+guid: 4cb0a66ed06933148a9722db1c285b52
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: assassin boss_0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3482
+        width: 605
+        height: 1195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d538c2e79fc3d704291af200adc18c5c
+      internalID: -952084240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_1
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 4004
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6260368afab6b84686a1ac95fdeb229
+      internalID: -1976448813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_2
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 3443
+        width: 595
+        height: 1234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bf33d27b980f149a1964bedf0e6941
+      internalID: 610068548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_3
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 3408
+        width: 633
+        height: 1269
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9494a1d518d4584d880f6edb701c989
+      internalID: -1540523784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_4
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 4008
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d935283c769da48aaadcc414422ef4
+      internalID: -1387841708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_5
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 3444
+        width: 595
+        height: 1233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd7b15235fe3da4b94a254b3a872da9
+      internalID: 1086901967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_6
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 3482
+        width: 602
+        height: 1195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6139a5ab3d6a2254e8ac4c43e6f7e9ea
+      internalID: -341283115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1549
+        width: 628
+        height: 1179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd7ba7686b9f764c810e330c974a29d
+      internalID: -1992349150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_8
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1549
+        width: 672
+        height: 1179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ebff9df05ff794f8e8c719ca3c118a
+      internalID: 1180095960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_9
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1549
+        width: 664
+        height: 1179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b02913afac684ab8da2537d0d1635
+      internalID: -1560819609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_10
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 2166
+        width: 137
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a99514ba53fa244ad60b45d0f50178
+      internalID: -1282939307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_11
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 1549
+        width: 659
+        height: 1179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9768fe5e6aead449a7b0ba4f4977fe
+      internalID: -1850924184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_12
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 2248
+        width: 66
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627e9d7adba7a15409a4363e8caf0ff5
+      internalID: -831566925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_13
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2274
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebfd7f5636f6c247bbb8d2dc6ed1b4a
+      internalID: -1663465216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_14
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 1501
+        width: 813
+        height: 1196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c668e84a6c724080875b3fe07050e
+      internalID: -1597744188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_15
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1496
+        width: 1175
+        height: 1186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148bcf8396b489409d65954dc77c0b5
+      internalID: -1225601861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_16
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 2195
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266dbde779a20eb4ca15e8fe1fe2d48a
+      internalID: -637245936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_17
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 2153
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7cfd7bfe74f3438343a803215824b
+      internalID: 1009672131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_18
+      rect:
+        serializedVersion: 2
+        x: 5783
+        y: 2080
+        width: 199
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71ed9b5a9327064da7ca8483b320c1d
+      internalID: -1862423893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_19
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 2002
+        width: 89
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe12016996daf24482740a75e7e0ded
+      internalID: -835367210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_20
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 2038
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636e6b5157d18ac43b3ce33c67d5b4d8
+      internalID: -1625998278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_21
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 2050
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c0ddd2c886c947bbe076efcc47cd6
+      internalID: 1386299210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_22
+      rect:
+        serializedVersion: 2
+        x: 5799
+        y: 2045
+        width: 121
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b1937264fead24ca7c9d758cea65ac
+      internalID: 1604347713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_23
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 2035
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e116630c96e4834f9a43778ca52cad7
+      internalID: 1485473430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_24
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 1991
+        width: 34
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2d504b3d6f0c24d9993289528c86b6
+      internalID: -53672807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_25
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 1928
+        width: 66
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b01d2775060a5443acb8dc2ef9fbd45
+      internalID: 890186796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_26
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1406
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19bbf4eef53f9045810d180765daf5b
+      internalID: 711307681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_27
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1389
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4b73eca4bb19c46ace8eb8155b201c
+      internalID: 1965734138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_28
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 1397
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4952f7d6fac1c49b6340003e6668bf
+      internalID: -1702671879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_29
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1381
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c39ae0c13b314cae229e770ea2a11
+      internalID: 1136539887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_30
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 1395
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e74e9de139655640a685e7dc8102846
+      internalID: -438587588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_31
+      rect:
+        serializedVersion: 2
+        x: 4921
+        y: 1383
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371fa640d9105ec43b63c1cedcfbd607
+      internalID: 93726064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_32
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1373
+        width: 15
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a301d795dfa9e6247970422fa2642105
+      internalID: 1534729198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_33
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1367
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b373f8cf6197b50439eb89df9e61e2d0
+      internalID: -2098320025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_34
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 1295
+        width: 209
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71cceaf5f5f1949b2e618bd5f7c9fb
+      internalID: -139035858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_35
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 1342
+        width: 85
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed30d29eac60254cb98cea653be7df9
+      internalID: 1111563388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_36
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1334
+        width: 73
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e049ec9e3d3deb4caebba2ecfdd9266
+      internalID: 129009481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_37
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 1350
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb27d6db6aa868e4e8cb919d4b176ca0
+      internalID: 1051212552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_38
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 1342
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50043cdab6405b44d80ff64edbc2a3a7
+      internalID: 1390994014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_39
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 75
+        width: 2218
+        height: 1349
+      alignment: 9
+      pivot: {x: 0.37076575, y: 0.41748363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7bfa43ea471e845aca0082570ca0b5
+      internalID: -593064889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_40
+      rect:
+        serializedVersion: 2
+        x: 5022
+        y: 1108
+        width: 578
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6bd262b5be353439589f8f2a5e5dc2
+      internalID: -846452934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_41
+      rect:
+        serializedVersion: 2
+        x: 6592
+        y: 1334
+        width: 15
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfbc7b5ebdfdaa4f9adad855d62c70e
+      internalID: 320183125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_42
+      rect:
+        serializedVersion: 2
+        x: 6608
+        y: 1318
+        width: 31
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79af8d52c4a0443bea148b4d1f3ee5
+      internalID: -1323251403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_43
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 64
+        width: 1494
+        height: 1377
+      alignment: 9
+      pivot: {x: 0.5312794, y: 0.4196106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea15793102aa442857bc927792cbbe
+      internalID: -1979978538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_44
+      rect:
+        serializedVersion: 2
+        x: 6215
+        y: 1303
+        width: 49
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbff90dce28f2a444b097ffe4bd4c86a
+      internalID: 1984898178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_45
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 1319
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b189114fef6cbc48ab972bb82c9a8ad
+      internalID: 262018451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_46
+      rect:
+        serializedVersion: 2
+        x: 6311
+        y: 1271
+        width: 152
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c92774d299fc4241ad45f0cb916a6a5
+      internalID: -2122718292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_47
+      rect:
+        serializedVersion: 2
+        x: 6647
+        y: 1272
+        width: 74
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8cb93f3702be40a073f7c7b41be2c
+      internalID: 1607781205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 53
+        width: 1463
+        height: 1196
+      alignment: 9
+      pivot: {x: 0.49, y: 0.49018213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f9dc2c18a3646428cbb468c1589077
+      internalID: 1710132430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_49
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1182
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba40f271e275ba9459f6d25c6bb9e16f
+      internalID: -1902093682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_50
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 1166
+        width: 168
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb99d9830eeebf24ba48a80c47332179
+      internalID: -2051146475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_51
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 1183
+        width: 22
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f277b0797ab268747ab14fcea0b40749
+      internalID: 1105973821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_52
+      rect:
+        serializedVersion: 2
+        x: 5838
+        y: 58
+        width: 1757
+        height: 1338
+      alignment: 9
+      pivot: {x: 0.6025257, y: 0.4357525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a6fe193ae6d14f8a383b3049dc6d2
+      internalID: -1351458834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_53
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 1158
+        width: 23
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7bb1d032b28b3459c511e86e1e2ca4
+      internalID: -535156414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_54
+      rect:
+        serializedVersion: 2
+        x: 6133
+        y: 1160
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09239fc26cab3ff468ecfd91de223336
+      internalID: -19111723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_55
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 1166
+        width: 31
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5f08eee4da4e644991ba81fcea86ab
+      internalID: -1271680377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_56
+      rect:
+        serializedVersion: 2
+        x: 6452
+        y: 1160
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6181600425e0b4fa01f771ac78435b
+      internalID: 1844067546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_57
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1045
+        width: 109
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff42bae4875a50343a1120a8ca3a0337
+      internalID: 441194256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_58
+      rect:
+        serializedVersion: 2
+        x: 6119
+        y: 1014
+        width: 106
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd16e346bfa647478d2e2d0dae8ae74
+      internalID: 1362526052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_59
+      rect:
+        serializedVersion: 2
+        x: 5906
+        y: 925
+        width: 21
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d1cb98bdc20c94b9d79c64729440ac
+      internalID: -1359720994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_60
+      rect:
+        serializedVersion: 2
+        x: 7707
+        y: 926
+        width: 20
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62803e3fcbdfeed4fb73e102ff146e35
+      internalID: 424167918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_61
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 822
+        width: 265
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c2447782735a47ab801368e0522d2
+      internalID: 558321061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_62
+      rect:
+        serializedVersion: 2
+        x: 6199
+        y: 772
+        width: 57
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1416b500c03b248a0f9b013ca6a2db
+      internalID: -1965648502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_63
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 732
+        width: 38
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500e5924d8985334a8f696fa70855ee2
+      internalID: -762298023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_64
+      rect:
+        serializedVersion: 2
+        x: 7643
+        y: 732
+        width: 45
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58227b741db314b93aeb5e4501c35e
+      internalID: 848645918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_65
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 627
+        width: 82
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0832ca33807ddd24c96db9daf4f679b0
+      internalID: 1123177131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_66
+      rect:
+        serializedVersion: 2
+        x: 6187
+        y: 641
+        width: 8
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a338661b93e5bb429787f569e718c76
+      internalID: -192993938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_67
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 646
+        width: 113
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87453d4c1611148b9d02467319b1af
+      internalID: -122968726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_68
+      rect:
+        serializedVersion: 2
+        x: 6334
+        y: 611
+        width: 43
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7169182eb69f4048b2aed9ce9002945
+      internalID: 468036271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_69
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 604
+        width: 47
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff196477485858a4fbd9f8e695ff3d11
+      internalID: -727525507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_70
+      rect:
+        serializedVersion: 2
+        x: 6225
+        y: 451
+        width: 128
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c619e5e41a4961749af1f6f8da591d49
+      internalID: -970856323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: assassin boss_71
+      rect:
+        serializedVersion: 2
+        x: 6484
+        y: 496
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1172548b655734e99d3c8e621f3f41
+      internalID: -1318810439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      assassin boss_0: -952084240
+      assassin boss_1: -1976448813
+      assassin boss_10: -1282939307
+      assassin boss_11: -1850924184
+      assassin boss_12: -831566925
+      assassin boss_13: -1663465216
+      assassin boss_14: -1597744188
+      assassin boss_15: -1225601861
+      assassin boss_16: -637245936
+      assassin boss_17: 1009672131
+      assassin boss_18: -1862423893
+      assassin boss_19: -835367210
+      assassin boss_2: 610068548
+      assassin boss_20: -1625998278
+      assassin boss_21: 1386299210
+      assassin boss_22: 1604347713
+      assassin boss_23: 1485473430
+      assassin boss_24: -53672807
+      assassin boss_25: 890186796
+      assassin boss_26: 711307681
+      assassin boss_27: 1965734138
+      assassin boss_28: -1702671879
+      assassin boss_29: 1136539887
+      assassin boss_3: -1540523784
+      assassin boss_30: -438587588
+      assassin boss_31: 93726064
+      assassin boss_32: 1534729198
+      assassin boss_33: -2098320025
+      assassin boss_34: -139035858
+      assassin boss_35: 1111563388
+      assassin boss_36: 129009481
+      assassin boss_37: 1051212552
+      assassin boss_38: 1390994014
+      assassin boss_39: -593064889
+      assassin boss_4: -1387841708
+      assassin boss_40: -846452934
+      assassin boss_41: 320183125
+      assassin boss_42: -1323251403
+      assassin boss_43: -1979978538
+      assassin boss_44: 1984898178
+      assassin boss_45: 262018451
+      assassin boss_46: -2122718292
+      assassin boss_47: 1607781205
+      assassin boss_48: 1710132430
+      assassin boss_49: -1902093682
+      assassin boss_5: 1086901967
+      assassin boss_50: -2051146475
+      assassin boss_51: 1105973821
+      assassin boss_52: -1351458834
+      assassin boss_53: -535156414
+      assassin boss_54: -19111723
+      assassin boss_55: -1271680377
+      assassin boss_56: 1844067546
+      assassin boss_57: 441194256
+      assassin boss_58: 1362526052
+      assassin boss_59: -1359720994
+      assassin boss_6: -341283115
+      assassin boss_60: 424167918
+      assassin boss_61: 558321061
+      assassin boss_62: -1965648502
+      assassin boss_63: -762298023
+      assassin boss_64: 848645918
+      assassin boss_65: 1123177131
+      assassin boss_66: -192993938
+      assassin boss_67: -122968726
+      assassin boss_68: 468036271
+      assassin boss_69: -727525507
+      assassin boss_7: -1992349150
+      assassin boss_70: -970856323
+      assassin boss_71: -1318810439
+      assassin boss_8: 1180095960
+      assassin boss_9: -1560819609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
